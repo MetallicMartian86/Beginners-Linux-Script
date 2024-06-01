@@ -1,0 +1,6 @@
+cd beginner-linux-script
+nano greet.sh
+chmod +x greet.sh
+git add greet.sh
+git commit -m "Add greeting script"
+git push origin main
